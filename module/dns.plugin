@@ -17,14 +17,14 @@ hotspot.cslwifi.com = server:syslib
 amplifi.lan = server:syslib
 *.lan = server:syslib
 # 国外
-*mvod.itunes.apple.com = server:1.1.1.1
-*audio.itunes.apple.com = server:1.1.1.1
-*amp-api-edge.music.apple.com = server:1.1.1.1
-*mzstatic.com = server:1.1.1.1
-*itunes.apple.com = server:1.1.1.1
-*osxapps.itunes.apple.com = server:1.1.1.1
-*blobstore.apple.com = server:1.1.1.1
-*parallels.com = server:1.1.1.1
+*mvod.itunes.apple.com = server:8.8.8.8
+*audio.itunes.apple.com = server:8.8.8.8
+*amp-api-edge.music.apple.com = server:8.8.8.8
+*mzstatic.com = server:8.8.8.8
+*itunes.apple.com = server:8.8.8.8
+*osxapps.itunes.apple.com = server:8.8.8.8
+*blobstore.apple.com = server:8.8.8.8
+*parallels.com = server:8.8.8.8
 # 腾讯
 *.qcloud.com = server:https://doh.pub/dns-query
 *.gtimg.cn = server:https://doh.pub/dns-query
