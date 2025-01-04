@@ -17,7 +17,9 @@ hotspot.cslwifi.com = server:syslib
 amplifi.lan = server:syslib
 *.lan = server:syslib
 # 国外
+aod.itunes.apple.com = aod.itunes.g.aaplimg.com
 *mvod.itunes.apple.com = server:8.8.8.8
+*aod.itunes.g.aaplimg.com = server:8.8.8.8
 *audio.itunes.apple.com = server:8.8.8.8
 *amp-api-edge.music.apple.com = server:8.8.8.8
 *mzstatic.com = server:8.8.8.8
