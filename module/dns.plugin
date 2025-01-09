@@ -24,6 +24,7 @@ aod.itunes.apple.com = aod.itunes.g.aaplimg.com
 *itunes.apple.com* = server:8.8.8.8
 *blobstore.apple.com = server:8.8.8.8
 *parallels.com = server:8.8.8.8
+*updates.cdn-apple.com = server:8.8.8.8
 *itunes.apple.com* = ip-mode:ipv6-preferred
 # 腾讯
 *.qcloud.com = server:https://doh.pub/dns-query
