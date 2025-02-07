@@ -12,15 +12,14 @@ amplifi.lan = server:syslib
 *.lan = server:syslib
 # 国外
 aod.itunes.apple.com = aod.itunes.g.aaplimg.com
-*aod.itunes.g.aaplimg.com = server:h3://cloudflare-dns.com/dns-query
-*amp-api-edge.music.apple.com = server:h3://cloudflare-dns.com/dns-query
-*mzstatic.com = server:h3://cloudflare-dns.com/dns-query
-*itunes.apple.com* = server:h3://cloudflare-dns.com/dns-query
-*blobstore.apple.com = server:h3://cloudflare-dns.com/dns-query
-*parallels.com = server:h3://cloudflare-dns.com/dns-query
-*updates.cdn-apple.com = server:h3://cloudflare-dns.com/dns-query
+*aod.itunes.g.aaplimg.com = server:https://cloudflare-dns.com/dns-query
+*amp-api-edge.music.apple.com = server:https://cloudflare-dns.com/dns-query
+*mzstatic.com = server:https://cloudflare-dns.com/dns-query
+*itunes.apple.com* = server:https://cloudflare-dns.com/dns-query
+*blobstore.apple.com = server:https://cloudflare-dns.com/dns-query
+*updates.cdn-apple.com = server:https://cloudflare-dns.com/dns-query
 *itunes.apple.com* = ip-mode:ipv6-preferred
-*surge.community = server:h3://cloudflare-dns.com/dns-query
+
 # 腾讯
 *.qcloud.com = server:https://doh.pub/dns-query
 *.gtimg.cn = server:https://doh.pub/dns-query
