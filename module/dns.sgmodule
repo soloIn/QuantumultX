@@ -13,9 +13,9 @@ amplifi.lan = server:syslib
 # 国外
 aod.itunes.apple.com = aod.itunes.g.aaplimg.com
 *aod.itunes.g.aaplimg.com = server:https://cloudflare-dns.com/dns-query
-*amp-api-edge.music.apple.com = server:https://cloudflare-dns.com/dns-query
+*music.apple.com = server:https://cloudflare-dns.com/dns-query
 *mzstatic.com = server:https://cloudflare-dns.com/dns-query
-*itunes.apple.com* = server:https://cloudflare-dns.com/dns-query
+*itunes.apple.com = server:https://cloudflare-dns.com/dns-query
 *blobstore.apple.com = server:https://cloudflare-dns.com/dns-query
 *updates.cdn-apple.com = server:https://cloudflare-dns.com/dns-query
 *itunes.apple.com* = ip-mode:ipv6-preferred
