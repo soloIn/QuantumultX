@@ -10,6 +10,7 @@ router.asus.com = server:syslib
 hotspot.cslwifi.com = server:syslib
 amplifi.lan = server:syslib
 *.lan = server:syslib
+dns.alidns.com = 223.5.5.5
 # 国外
 aod.itunes.apple.com = aod.itunes.g.aaplimg.com
 mvod.itunes.apple.com = mvod.itunes.g.aaplimg.com
