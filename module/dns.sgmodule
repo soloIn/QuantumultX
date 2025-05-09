@@ -14,6 +14,7 @@ dns.alidns.com = 223.5.5.5
 # 国外
 aod.itunes.apple.com = aod.itunes.g.aaplimg.com
 mvod.itunes.apple.com = mvod.itunes.g.aaplimg.com
+iosapps.itunes.g.aaplimg.com = iosapps.itunes.apple.com.download.ks-cdn.com
 *aod.itunes.g.aaplimg.com = server:https://cloudflare-dns.com/dns-query
 *mvod.itunes.g.aaplimg.com = server:https://cloudflare-dns.com/dns-query
 *music.apple.com = server:https://cloudflare-dns.com/dns-query
