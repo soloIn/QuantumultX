@@ -21,8 +21,9 @@ iosapps.itunes.g.aaplimg.com = iosapps.itunes.apple.com.download.ks-cdn.com
 *mzstatic.com = server:https://cloudflare-dns.com/dns-query
 *itunes.apple.com = server:https://cloudflare-dns.com/dns-query
 #*blobstore.apple.com = server:https://cloudflare-dns.com/dns-query
-*updates.cdn-apple.com = server:https://cloudflare-dns.com/dns-query
+#*updates.cdn-apple.com = server:https://cloudflare-dns.com/dns-query
 *itunes.apple.com* = ip-mode:ipv6-preferred
+*updates.cdn-apple.com = ip-mode:ipv6-preferred
 
 # 腾讯
 *.qcloud.com = server:https://doh.pub/dns-query
