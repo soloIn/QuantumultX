@@ -21,7 +21,7 @@ mvod.itunes.apple.com = mvod.itunes.g.aaplimg.com
 #*mzstatic.com = server:https://cloudflare-dns.com/dns-query
 #*itunes.apple.com = server:https://cloudflare-dns.com/dns-query
 #*blobstore.apple.com = server:https://cloudflare-dns.com/dns-query
-#*updates.cdn-apple.com = server:https://cloudflare-dns.com/dns-query
+*updates.cdn-apple.com = updates.cdn-apple.com.w.kunlunca.com
 *itunes.apple.com* = ip-mode:ipv6-preferred
 *updates.cdn-apple.com = ip-mode:ipv6-preferred
 
