@@ -13,14 +13,14 @@ amplifi.lan = server:syslib
 dns.alidns.com = 223.5.5.5
 # 国外
 aod.itunes.apple.com = aod.itunes.apple.com.w.alikunlun.com
-*itunes.apple.com = itunes.apple.com.w.alikunlun.com
+
 *iosapps.itunes.apple.com = iosapps.itunes.apple.com.m.alikunlun.net
 *osxapps.itunes.apple.com = osxapps.itunes.apple.com.w.alikunlun.com
 #*aod.itunes.g.aaplimg.com = server:https://cloudflare-dns.com/dns-query
 *mvod.itunes.apple.com = server:https://cloudflare-dns.com/dns-query
 #*music.apple.com = server:https://cloudflare-dns.com/dns-query
 #*mzstatic.com = server:https://cloudflare-dns.com/dns-query
-#*itunes.apple.com = server:https://cloudflare-dns.com/dns-query
+*itunes.apple.com = server:https://cloudflare-dns.com/dns-query
 #*blobstore.apple.com = server:https://cloudflare-dns.com/dns-query
 *updates.cdn-apple.com = updates.cdn-apple.com.w.kunlunca.com
 *itunes.apple.com* = ip-mode:ipv6-preferred
