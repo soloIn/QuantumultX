@@ -24,7 +24,8 @@ aod.itunes.apple.com = aod.itunes.apple.com.w.alikunlun.com
 *updates.cdn-apple.com = updates.cdn-apple.com.w.kunlunca.com
 *itunes.apple.com* = ip-mode:ipv6-preferred
 *updates.cdn-apple.com = ip-mode:ipv6-preferred
-
+*apple.com = server: https://dns.alidns.com
+*apple.com.cn = server: https://dns.alidns.com
 # 腾讯
 *.qcloud.com = server:https://doh.pub/dns-query
 *.gtimg.cn = server:https://doh.pub/dns-query
