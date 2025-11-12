@@ -22,10 +22,10 @@ aod.itunes.apple.com = aod.itunes.apple.com.w.alikunlun.com
 *apple.com.cn = server: h3://dns.alidns.com
 
 # 115
-*.oss-cn-shenzhen.aliyuncs.com = h3://dns.alidns.com
-*.115.com = h3://dns.alidns.com
-*.115cdn.net = h3://dns.alidns.com
-*.115cdn.com = h3://dns.alidns.com
+*.oss-cn-shenzhen.aliyuncs.com = server: h3://dns.alidns.com
+*.115.com = server: h3://dns.alidns.com
+*.115cdn.net = server: h3://dns.alidns.com
+*.115cdn.com = server: h3://dns.alidns.com
 
 # 腾讯
 *.qcloud.com = server:https://doh.pub/dns-query
