@@ -21,7 +21,7 @@ aod.itunes.apple.com = aod.itunes.apple.com.w.alikunlun.com
 *apple.com = server:h3://dns.alidns.com/dns-query
 *apple.com.cn = server:h3://dns.alidns.com/dns-query
 *.run.claw.cloud = server:h3://dns.alidns.com/dns-query
-
+*translate-solo.ddns-ip.net = server:h3://dns.alidns.com/dns-query
 # 115
 *.oss-cn-shenzhen.aliyuncs.com = server:h3://dns.alidns.com/dns-query
 *.115.com = server:h3://dns.alidns.com/dns-query
